@@ -1,6 +1,11 @@
 # Doink
 A 2D game played 2 players on the same keyboard.
 
+*Controls*
+Player 1: WASD + space
+
+Player 2: ARROWKEYS + .
+
 ### Run
 If Lua and Löve2D is installed on your system you can run this game like all
 other games.
